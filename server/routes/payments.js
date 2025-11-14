@@ -1,0 +1,1 @@
+const express=require('express');const router=express.Router();router.post('/create-checkout',(req,res)=>res.json({ok:true,url:'https://stripe.fake/checkout'}));router.post('/webhook',(req,res)=>res.json({ok:true}));module.exports=router;

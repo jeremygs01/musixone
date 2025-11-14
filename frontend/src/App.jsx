@@ -1,0 +1,1 @@
+import React from 'react';export default function App(){return (<div style={{padding:32,color:'#fff',background:'#0f0f0f',minHeight:'100vh'}}><h1>MusixOne</h1><p>Demo frontend</p></div>);} 

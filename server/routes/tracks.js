@@ -1,0 +1,1 @@
+const express=require('express');const router=express.Router();router.get('/',(req,res)=>res.json({ok:true,tracks:[]}));router.post('/upload',(req,res)=>res.json({ok:true,message:'upload endpoint (implement)'}));module.exports=router;
