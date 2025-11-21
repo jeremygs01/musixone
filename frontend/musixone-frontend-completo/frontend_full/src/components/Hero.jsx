@@ -1,0 +1,1 @@
+export default function Hero(){return(<section className='p-10 text-center'><h1 className='text-5xl font-bold'>MusixOne</h1><p className='opacity-70 mt-3'>Un mundo. Un sonido.</p></section>);}

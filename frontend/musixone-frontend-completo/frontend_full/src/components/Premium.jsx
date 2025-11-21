@@ -1,0 +1,1 @@
+export default function Premium(){return(<section className='p-6'><h2 className='text-3xl font-bold mb-4'>Premium</h2><ul className='list-disc list-inside opacity-80'><li>Subidas ilimitadas</li><li>Estadísticas</li><li>Destacado en portada</li></ul></section>);}

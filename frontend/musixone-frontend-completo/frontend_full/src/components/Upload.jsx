@@ -1,0 +1,1 @@
+export default function Upload(){return(<section className='p-6'><h2 className='text-3xl font-bold mb-4'>Sube tu Música</h2><p className='opacity-75'>Compatible con tu backend en Render.</p></section>);}

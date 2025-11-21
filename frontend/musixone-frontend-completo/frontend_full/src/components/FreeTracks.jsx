@@ -1,0 +1,1 @@
+export default function FreeTracks(){return(<section className='p-6'><h2 className='text-3xl font-bold mb-4'>5 Canciones Gratis</h2><ul className='space-y-2'>{[1,2,3,4,5].map(n=>(<li key={n} className='bg-gray-800 p-3 rounded'>Canción #{n}</li>))}</ul></section>);}
