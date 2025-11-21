@@ -1,1 +1,1 @@
-export default function App(){return <div className='text-white text-4xl p-10'>MusixOne Frontend Ready</div>}
+import React from 'react';import Hero from './components/Hero.jsx';import FreeTracks from './components/FreeTracks.jsx';import Upload from './components/Upload.jsx';import Premium from './components/Premium.jsx';export default function App(){return(<div className='bg-black text-white min-h-screen'><Hero/><FreeTracks/><Upload/><Premium/></div>);}
